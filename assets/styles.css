@@ -1,0 +1,124 @@
+#top{
+  margin-top: 0;
+  background-image: url("images/WOODY.jpg");
+}
+.top-container{
+text-align: center;
+}
+.back-img{
+height: 1080px;
+width: 2030px;
+position: relative;
+
+}
+.headig{
+  color: white;
+  font-size: 3rem;
+  margin-top: 10rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+
+}
+.my-img{
+  border-radius: 100%;
+  width: 400px;
+  height: 400px;
+  margin-top: 3rem;
+  text-align: center;
+}
+.sett{
+  font-size: 1.4rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-img{
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+  height: 170px
+
+}
+div {
+  margin-top:  0;
+padding: 50px
+  ;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+p{
+  color: #40514E;
+}
+#Education{
+  background-image: url(images/frame.jpg);
+}
+.TOPMOST{
+  padding-top: 100px;
+  padding-left: 200px;
+}
+.EDUEVERY{
+  padding-left: 200px;
+}
+#edutopt{
+  text-align: center;
+  padding-top: 250px;
+  font-weight: 400;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+.edu-pro{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+.edu-p{
+  color: #40514E;
+  font-family: 'Ubuntu',sans-serif;
+  padding-top: 10px;
+  font-weight: bold;
+}
+.gap{
+  text-align: center;
+}
+.between{
+  font-family: sans-serif;
+  color: #40514E
+}
+.YUI{
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 100px;
+  color: white;
+}
+#skills{
+  background-image: url("images/WOODY.jpg");
+}
+.boldy{
+  font-weight: 900;
+}
+.yooo{
+  font-family: 'Ubuntu',sans-serif;
+  color: white;
+  font-weight: bolder;
+}
+#certificates{
+  background-image: url("images/WOODY.jpg");
+}
+#contact{
+  text-align: center;
+  background-image: url("images/WOODY.jpg");
+}
+.contec{
+  color: white;
+  font-size: 3rem;
+}
+.cppp{
+  color: white;
+  padding-top: 20px;
+}
