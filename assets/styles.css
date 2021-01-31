@@ -24,7 +24,8 @@ position: relative;
   width: 400px;
   height: 400px;
   margin-top: 3rem;
-  text-align: center;
+  position: relative;
+  left: 100px;
 }
 .sett{
   font-size: 1.4rem;
@@ -121,4 +122,28 @@ p{
 .cppp{
   color: white;
   padding-top: 20px;
+}
+.cub{
+  padding-top: 50px;
+  padding-left: 50px;
+}
+.cpppp{
+  color: white;
+
+  font-size: 1.4rem;
+}
+.tire{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+@@media (max-width: 1028px) {
+  .my-img{
+    position: static;
+    padding-top: 6%;
+    left: 0;
+  }
+  #top{
+    text-align: center;
+  }
+
 }
